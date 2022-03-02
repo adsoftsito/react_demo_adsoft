@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Addition from './components/addition/Addition';
 import Subs     from './components/subs/Subs';
+import Mul      from './components/mul/Mul';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         
        <Addition />
        <Subs />
+       <Mul />
 
         <a
           className="App-link"
