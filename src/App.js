@@ -1,5 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import Addition from './components/addition/Addition';
+import Subs     from './components/subs/Subs';
+import Mul      from './components/mul/Mul';
+import Div      from './components/div/Div';
 
 function App() {
 
@@ -8,8 +12,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save.
+          Demo calc - adsoft
         </p>
+        
+       <Addition />
+       <Subs />
+       <Mul />
+       <Div />
+
         <a
           className="App-link"
           href="https://reactjs.org"
