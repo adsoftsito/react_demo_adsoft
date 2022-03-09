@@ -12,7 +12,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Demo calc - adsoft
+          Simple Calculator - adsoft
         </p>
         
        <Addition />
