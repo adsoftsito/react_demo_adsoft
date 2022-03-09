@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+# develop branch
+# release branch created
 # hotfixes created
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
